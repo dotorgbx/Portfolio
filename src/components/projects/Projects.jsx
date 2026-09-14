@@ -24,7 +24,7 @@ export function Projects() {
 
         <ProjectCard
           src={logo}
-          link="https://apiscoreboards.vercel.app/"
+          link="https://api-obs-omega.vercel.app/"
           h3={t('project1Title')}
           p={t('project1Descript')}
         />
