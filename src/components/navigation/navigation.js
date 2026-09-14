@@ -51,7 +51,7 @@ export const Navigation = () => {
             Linkedin&nbsp;&nbsp;&nbsp;
     {/* <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"  alt="any"/> */}
           </a>
-          <a className="navbar-item" href="https://github.com/Gebexe" target='_blank' rel="noreferrer">
+          <a className="navbar-item" href="https://github.com/dotorgbx" target='_blank' rel="noreferrer">
           Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
           
    {/*  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub logo"/> */}

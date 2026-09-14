@@ -1,12 +1,1 @@
-{
-    "welcome": "Welcome to my app",
-    "buttonText": "Language Change",
-    "idiomaEN":"English",
-    "idiomaES":"Spanish",
-    "About": "Contact",
-    "contenido": "Psychologist, passionate about technology, I have knowledge in fullstack Javascript development, Python, and recruiting. I am someone open to looking for solutions to problems and who is not afraid to face a new challenge. I have varied communication skills, not only IT but also human resources and the creation of audiovisual media. And if you are reading, I thank you for your attention.",
-    "Projects": "Projects",
-    "developer": "Frontend Developer",
-    "project1Title": "Scoreboard api for OBS",
-    "project1Descript": "Overlay of scores for fighting games to be used in streaming apps like OBS should use color filter #0056b3 for transparency."
-  }
+{ "welcome": "Welcome", "buttonText": "Language", "idiomaEN": "English", "idiomaES": "Spanish", "About": "Contact", "contenido": "Psychologist and Software Developer focused on full-stack development and artificial intelligence applications. I primarily work with JavaScript, TypeScript, React, Node.js, and Python, with experience building projects that integrate APIs, databases, generative AI, and semantic processing. My background in Psychology also allows me to approach technological problems from an interdisciplinary perspective. I am currently developing IPIP Online, an experimental adaptive psychometric assessment platform that combines language models, embeddings, and semantic search.", "Projects": "Projects", "developer": "Software Developer & AI Engineer", "projectIPIPTitle": "IPIP Online", "projectIPIPDescript": "An experimental adaptive psychometric assessment platform that uses language models, embeddings, and semantic search to dynamically select personality items and generate personalized assessments. Built with React, NestJS, Supabase, PostgreSQL, pgvector, and the OpenAI API.", "project1Title": "OBS Scoreboard API", "project1Descript": "A score overlay for fighting games designed for streaming applications such as OBS. It allows match information to be displayed and updated during live broadcasts.", "project2Title": "Landing Page for Psychology Consultation", "project2Descript": "Landing page for a psychology consultation service." }

@@ -1,12 +1,1 @@
-{
-    "welcome": "Bienvenido",
-    "buttonText": "Cambio de idioma",
-    "idiomaEN":"Ingles",
-    "idiomaES":"Español",
-    "About": "Contacto",
-    "contenido": "Psicologo, apasionado por la tecnología tengo conocimientos en desarrollo fullstack Javascript, Python ,y en recruiting. Soy alguien abierto a buscar soluciones a problemas y que no tiene miedo de enfrentarse a un desafío nuevo, poseo  habilidades comunicativas, y variadas no tan solo IT sino de recursos humanos y de creación de medios audiovisuales. Y si estas leyendo te agradezco tu atención",
-    "Projects": "Proyectos",
-    "developer": "Desarrollador Frontend",
-    "project1Title": "Scoreboard api para OBS",
-    "project1Descript": "Overlay de scores para juegos de pelea para ser utilizado en apps de streaming como OBS se debe utilizar filtro de color #0056b3 para la transparencia"
-  }
+{ "welcome": "Bienvenido", "buttonText": "Idioma", "idiomaEN": "Inglés", "idiomaES": "Español", "About": "Contacto", "contenido": "Psicólogo y Software Developer enfocado en desarrollo full-stack y aplicaciones de inteligencia artificial. Trabajo principalmente con JavaScript, TypeScript, React, Node.js y Python, y tengo experiencia desarrollando proyectos que integran APIs, bases de datos, IA generativa y procesamiento semántico. Mi formación en Psicología también me permite abordar problemas tecnológicos desde una perspectiva interdisciplinaria. Actualmente desarrollo IPIP Online, una plataforma experimental de evaluación psicométrica adaptativa que combina modelos de lenguaje, embeddings y búsqueda semántica.", "Projects": "Proyectos", "developer": "Software Developer & AI Engineer", "projectIPIPTitle": "IPIP Online", "projectIPIPDescript": "Plataforma experimental de evaluación psicométrica adaptativa que utiliza modelos de lenguaje, embeddings y búsqueda semántica para seleccionar dinámicamente ítems de personalidad y generar evaluaciones personalizadas. Desarrollada con React, NestJS, Supabase, PostgreSQL, pgvector y OpenAI API.", "project1Title": "Scoreboard API para OBS", "project1Descript": "Overlay de scores para juegos de pelea diseñado para utilizarse en aplicaciones de streaming como OBS. Permite mostrar y actualizar información de partidas durante transmisiones.", "project2Title": "Página de aterrizaje para Consultoría Psicológica", "project2Descript": "Página de aterrizaje para un servicio de consultoría psicológica." }
